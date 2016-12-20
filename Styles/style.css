@@ -6,6 +6,7 @@ body {
 	background-color: #57d1b5;
 	font-family: 'Titillium Web', sans-serif;
 	color: white;
+	font-size: 100%;
 }
 
 .centered {
@@ -38,11 +39,4 @@ a {
 
 a:hover {
 	color: black;
-}
-
-input, textarea {
-	font-family: 'Titillium Web', sans-serif;
-	font-size: 1rem;
-	width: 155px;
-	box-sizing: border-box;
 }
