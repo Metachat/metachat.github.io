@@ -1,0 +1,31 @@
+html {
+	
+}
+
+body {
+	background-color: #57d1b5;
+	font-family: 'Titillium Web', sans-serif;
+	color: white;
+}
+
+.centered {
+	width: 200px;
+	height: 55px;
+	margin:auto;
+	position: absolute;
+	top:0;
+	left:0;
+	bottom:0;
+	right:0;
+}
+
+h1 {
+	font-size: 36px;
+}
+
+input, textarea {
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 14px;
+	width: 155px;
+	box-sizing: border-box;
+}
