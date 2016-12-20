@@ -20,7 +20,7 @@ body {
 }
 
 h1 {
-	font-size: 5rem;
+	font-size: 2rem;
 }
 
 ul {
@@ -42,7 +42,7 @@ a:hover {
 
 input, textarea {
 	font-family: 'Titillium Web', sans-serif;
-	font-size: 14px;
+	font-size: 1rem;
 	width: 155px;
 	box-sizing: border-box;
 }
