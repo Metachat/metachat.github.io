@@ -9,8 +9,8 @@ body {
 }
 
 .centered {
-	width: 200px;
-	height: 55px;
+	width: 300px;
+	height: 110px;
 	margin:auto;
 	position: absolute;
 	top:0;
@@ -21,6 +21,23 @@ body {
 
 h1 {
 	font-size: 36px;
+}
+
+ul {
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+ul li:before {
+	content: "\2023 \0020";
+} 
+
+a {
+	color: white;
+}
+
+a:hover {
+	color: black;
 }
 
 input, textarea {
